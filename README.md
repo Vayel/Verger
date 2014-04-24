@@ -12,14 +12,12 @@ effet inutile de traiter une portion exempte de fruits.
 
 ## Structure du dépôt
 
-Le dossier **acquisition** est dédié à la prise des photographies. Il comporte 
-les images dans le sous-dossier **img** et aborde les multiples aspects de
-l'acquisition - éclairage, matériel photographique...
+* Acquisition : prise des clichés
+    * img : contient les images
+        * nuit : photographies de nuit
+        
+* Analyse : analyse des images
 
-Le dossier **analyse** comporte les essais d'analyse des images.
+* Cartographie : génération de la carte de densité
 
-Le dossier **cartographie** est dédié à la mise en place de la carte de densités 
-de floraison.
-
-Le dossier **distribution** est consacré principalement à la partie embarquée
-du projet, utilisée entre autre pour distribuer les produits de traitement. 
+* Distribution : interface embarquée

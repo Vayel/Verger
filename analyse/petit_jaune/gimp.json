@@ -1,0 +1,38 @@
+[
+	{
+	  "date": "24/04/2014",
+	  "source": "nuit/petit_jaune/01.jpg",
+	  "images": [
+		"feuillage_01.png": {
+		  "operations": [
+		    "Couleurs > Désaturer > Luminosité",
+		    "Couleurs > Seuil > 18"
+		  ]
+		},
+		"fleurs_01.png": {
+		  "operations": [
+		   "Couleurs > Désaturer > Luminosité",
+		    "Couleurs > Luminosité/Contraste > 58"
+		  ]
+		}
+	  ]
+	},
+	{
+	  "date": "24/04/2014",
+	  "source": "nuit/petit_jaune/05.jpg",
+	  "images": [
+		"feuillage_05.png": {
+		  "operations": [
+		    "Couleurs > Désaturer > Luminosité",
+		    "Couleurs > Seuil > TODO"
+		  ]
+		},
+		"fleurs_05.png": {
+		  "operations": [
+		   "Couleurs > Désaturer > Luminosité",
+		    "Couleurs > Luminosité/Contraste > 110"
+		  ]
+		}
+	  ]
+	}
+]

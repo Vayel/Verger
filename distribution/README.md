@@ -1,5 +1,3 @@
 # Distribution
 
-Raspberry PI
-
-**TODO**
+Raspberry PI, moteur pas à pas

@@ -1,18 +1,20 @@
-{
-  "date": "21/04/2014",
-  "source": "nuit/blanc_x.jpg",
-  "images": [
-    "feuillage_x.png": {
-      "operations": [
-        "Couleurs > Désaturer > clarté",
-        "Couleurs > Seuil > 10"
-      ]
-    },
-    "fleurs_x.png": {
-      "operations": [
-       "Couleurs > Désaturer > clarté",
-        "Couleurs > Luminosité/Contraste > 127"
-      ]
-    }
-  ]
-}
+[
+	{
+	  "date": "21/04/2014",
+	  "source": "nuit/blanc_x.jpg",
+	  "images": [
+		"feuillage_x.png": {
+		  "operations": [
+		    "Couleurs > Désaturer > Clarté",
+		    "Couleurs > Seuil > 10"
+		  ]
+		},
+		"fleurs_x.png": {
+		  "operations": [
+		   "Couleurs > Désaturer > clarté",
+		    "Couleurs > Luminosité/Contraste > 127"
+		  ]
+		}
+	  ]
+	}
+]

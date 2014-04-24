@@ -2,4 +2,4 @@
 
 Repérage par rapport à l'arbre.
 
-**TODO**
+Google Street View
