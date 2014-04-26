@@ -27,3 +27,7 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 * Cartographie : dédié à la génération de la carte de densité
 
 * Distribution : dédié à l'interface embarquée
+
+## TODO
+* Analyse : inversion de couleurs puis seuillage
+* visionneuse.py
