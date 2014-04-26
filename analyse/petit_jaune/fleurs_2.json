@@ -1,8 +1,10 @@
 {
-	"date": "2014-04-26",
-	"source": "nuit/petit_jaune/2.jpg",
-	"operations": [
-		"desat luminosité",
-		"contraste 127"
-	]
+	"fleurs_2_con": {
+		"date": "2014-04-26",
+		"source": "nuit/petit_jaune/2.jpg",
+		"operations": [
+			"desat luminosité",
+			"contraste 127"
+		]
+	}
 }

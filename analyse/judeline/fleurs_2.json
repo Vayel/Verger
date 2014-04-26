@@ -1,8 +1,10 @@
 {
-	"date": "2014-04-26",
-	"source": "nuit/judeline/blanc_2.jpg",
-	"operations": [
-		"desat clarté",
-		"contraste 127"
-	]
+	"fleurs_2_con": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_2.jpg",
+		"operations": [
+			"desat clarté",
+			"contraste 127"
+		]
+	}
 }

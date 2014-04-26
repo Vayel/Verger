@@ -1,8 +1,10 @@
 {
-	"date": "2014-04-26",
-	"source": "nuit/judeline/blanc_2.jpg",
-	"operations": [
-		"desat clarté",
-		"seuil 15"
-	]
+	"feuillage_2_con": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_2.jpg",
+		"operations": [
+			"desat clarté",
+			"seuil 15"
+		]
+	}
 }
