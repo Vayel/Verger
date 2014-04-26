@@ -1,0 +1,9 @@
+{
+	"date": "2014-04-26",
+	"source": "nuit/petit_jaune/1.jpg",
+	"operations": [
+		"desat luminosité",
+		"contraste 12",
+		"seuil 5"
+	]
+}
