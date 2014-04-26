@@ -11,9 +11,22 @@ comme cela :  (quantité de fleurs)/(quantité de feuillage)
 ## Méthodes :
 L'analyse des images se fera avec OpenCV ou GIMP.
 
+**Feuillage :**
+* Passage en noir et blanc
+    * Seuillage
+
+**Fleurs :**
+* Passage en noir et blanc
+    * Augmentation du contraste
+* Inversion des couleurs
+
 ## Problèmes :
-De jour : arrière-plan
-Tout le temps : sol, ciel
+* De jour : arrière-plan
+* Tout le temps : sol, ciel
 
 ## Structure de la partie :
-TODO
+Chaque sous-partie est consacrée à une variété particulière.
+
+À chaque analyse - i.e. fichier .jpg - est associé un fichier .json apportant 
+plus de détails sur le déroulement de l'analyse : date, source, opérations effectuées... 
+Le fichier gimp.json décrit ces dernières avec précision.
