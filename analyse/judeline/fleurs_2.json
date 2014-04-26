@@ -6,5 +6,12 @@
 			"desat clarté",
 			"contraste 127"
 		]
+	},
+	"fleurs_2_inv": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_2.jpg",
+		"operations": [
+			"inv"
+		]
 	}
 }

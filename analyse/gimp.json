@@ -1,5 +1,6 @@
 {
 	"seuil $1": "Couleurs > Seuil > $1",
 	"contraste $1": "Couleurs > Luminosité/Contraste > $1",
-	"desat $1": "Couleurs > Désaturer > $1"
+	"desat $1": "Couleurs > Désaturer > $1",
+	"inv": "Couleurs > Inverser"
 }

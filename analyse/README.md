@@ -19,6 +19,8 @@ L'analyse des images se fera avec OpenCV ou GIMP.
 * Passage en noir et blanc
     * Augmentation du contraste
 * Inversion des couleurs
+    * Passage en noir et blanc ?
+    * Seuillage ?
 
 ## Problèmes :
 * De jour : arrière-plan

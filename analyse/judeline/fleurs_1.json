@@ -1,10 +1,17 @@
 {
-		"fleurs_1_con": {
+	"fleurs_1_con": {
 		"date": "2014-04-26",
 		"source": "nuit/judeline/blanc_1.jpg",
 		"operations": [
 			"desat clarté",
 			"contraste 127"
+		]
+	},
+	"fleurs_1_inv": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_1.jpg",
+		"operations": [
+			"inv"
 		]
 	}
 }
