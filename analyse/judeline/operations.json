@@ -1,0 +1,34 @@
+{
+	"feuillage_1.png": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_1.jpg",
+		"operations": [
+			"desat clarté",
+			"seuil 12"
+		]
+	},
+	"fleurs_1.png": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_1.jpg",
+		"operations": [
+			"desat clarté",
+			"contraste 127"
+		]
+	},
+	"feuillage_2.png": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_2.jpg",
+		"operations": [
+			"desat clarté",
+			"seuil 15"
+		]
+	},
+	"fleurs_2.png": {
+		"date": "2014-04-26",
+		"source": "nuit/judeline/blanc_2.jpg",
+		"operations": [
+			"desat clarté",
+			"contraste 127"
+		]
+	}
+}

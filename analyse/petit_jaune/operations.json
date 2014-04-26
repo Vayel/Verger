@@ -1,0 +1,36 @@
+{
+	"feuillage_1.png": {
+		"date": "2014-04-26",
+		"source": "nuit/petit_jaune/1.jpg",
+		"operations": [
+			"desat luminosité",
+			"contraste 12",
+			"seuil 5"
+		]
+	},
+	"fleurs_1.png": {
+		"date": "2014-04-26",
+		"source": "nuit/petit_jaune/1.jpg",
+		"operations": [
+			"desat luminosité",
+			"contraste 30"
+		]
+	},
+	"feuillage_2.png": {
+		"date": "2014-04-26",
+		"source": "nuit/petit_jaune/2.jpg",
+		"operations": [
+			"desat luminosité",
+			"contraste 15",
+			"seuil 4"
+		]
+	},
+	"fleurs_2.png": {
+		"date": "2014-04-26",
+		"source": "nuit/petit_jaune/2.jpg",
+		"operations": [
+			"desat luminosité",
+			"contraste 127"
+		]
+	}
+}
