@@ -1,4 +1,4 @@
-# Répartition des produits de traitement dans un verger
+# Modulation de dose de produits de traitement dans un verger
 
 ## Késako ?
 
@@ -10,14 +10,20 @@ puis de générer une carte pour être capable, à tout moment de l'année, de
 distribuer une quantité de produit adaptée à la région considérée : il est en
 effet inutile de traiter une portion exempte de fruits.
 
+Concrètement, chaque rang d'arbres est photographié, découpé en zones dont nous 
+calculons la densité de floraison. Une carte est alors générée puis, lors des 
+phases de traitement, nous déterminons la position du tracteur sur la carte afin 
+de connaître la quantité de produit à distribuer, que nous distribuons. 
+
 ## Structure du dépôt
 
-* Acquisition : prise des clichés
+* Acquisition : dédié à la prise des clichés
     * img : contient les images
+        * jour : photographies de jour
         * nuit : photographies de nuit
         
-* Analyse : analyse des images
+* Analyse : dédié à l'analyse des images
 
-* Cartographie : génération de la carte de densité
+* Cartographie : dédié à la génération de la carte de densité
 
-* Distribution : interface embarquée
+* Distribution : dédié à l'interface embarquée

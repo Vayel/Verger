@@ -1,8 +1,18 @@
 # Acquisition
 
+## Objectifs :
+Prendre des clichés dont l'analyse donnera des résultats corrects.
+
+## Méthodes :
 Les clichés sont pris de face, perpendiculaires au rang concerné.
 
-L'acquisition des photographies est effectuée de nuit afin d'éliminer le 
-problème de l'arrière-plan.
+## Problèmes :
+* Arrière-plan
+* Ciel
+* Sol
 
-Il est nécessaire que le sol soit invisible et que le ciel apparaisse le plus noir possible.
+## Pistes :
+Prises nocturnes
+
+## Structure de la partie :
+TODO

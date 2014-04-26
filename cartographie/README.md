@@ -27,3 +27,6 @@ photographier dans toute sa largeur pour aisément générer la portion de carte
 ## Pistes :
 * Google Street View : assemblage d'images 
 * vidéo
+
+## Structure de la partie :
+TODO
