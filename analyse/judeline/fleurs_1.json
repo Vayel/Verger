@@ -13,5 +13,13 @@
 		"operations": [
 			"inv"
 		]
+	},
+	"fleurs_1_inv_con": {
+		"date": "2014-04-27",
+		"source": "nuit/judeline/blanc_1.jpg",
+		"operations": [
+			"desat clarté",
+			"contraste 127"
+		]
 	}
 }
