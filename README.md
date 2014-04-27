@@ -29,6 +29,4 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 * Distribution : dédié à l'interface embarquée
 
 ## TODO
-* Fichiers de configuration des analyses
-* Analyse : inversion de couleurs puis seuillage
-* visionneuse.py
+* visionneuse.py : programme python pour facilement visionner les analyses
