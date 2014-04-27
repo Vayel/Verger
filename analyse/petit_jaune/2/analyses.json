@@ -1,0 +1,20 @@
+{
+	"source": "nuit/petit_jaune/2.jpg",
+	"images": {
+		"feuillage_con": {
+			"date": "2014-04-26",
+			"operations": [
+				"desat luminosité",
+				"contraste 15",
+				"seuil 4"
+			]
+		},
+		"fleurs_con": {
+			"date": "2014-04-26",
+			"operations": [
+				"desat luminosité",
+				"contraste 127"
+			]
+		}
+	}
+}
