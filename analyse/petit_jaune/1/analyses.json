@@ -5,7 +5,7 @@
 			"date": "2014-04-26",
 			"operations": [
 				"desat luminosité",
-				"contraste 12",
+				"con 12",
 				"seuil 5"
 			]
 		},
@@ -13,7 +13,17 @@
 			"date": "2014-04-26",
 			"operations": [
 				"desat luminosité",
-				"contraste 30"
+				"con 30"
+			]
+		}
+	},
+	"fleurs_inv_con_seuil": {
+			"date": "2014-04-27",
+			"operations": [
+				"inv",
+				"desat luminosité",
+				"con 30",
+				"seuil 255"
 			]
 		}
 	}

@@ -5,7 +5,7 @@
 			"date": "2014-04-26",
 			"operations": [
 				"desat luminosité",
-				"contraste 15",
+				"con 15",
 				"seuil 4"
 			]
 		},
@@ -13,7 +13,7 @@
 			"date": "2014-04-26",
 			"operations": [
 				"desat luminosité",
-				"contraste 127"
+				"con 127"
 			]
 		}
 	}

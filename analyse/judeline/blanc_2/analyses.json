@@ -12,7 +12,7 @@
 			"date": "2014-04-26",
 			"operations": [
 				"desat clarté",
-				"contraste 127"
+				"con 127"
 			]
 		},
 		"fleurs_inv": {
@@ -26,7 +26,7 @@
 			"operations": [
 				"inv",
 				"desat clarté",
-				"contraste 127"
+				"con 127"
 			]
 		}
 	}
