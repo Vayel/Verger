@@ -18,6 +18,7 @@
 		"date": "2014-04-27",
 		"source": "nuit/judeline/blanc_1.jpg",
 		"operations": [
+			"inv",
 			"desat clarté",
 			"contraste 127"
 		]
