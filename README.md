@@ -29,4 +29,6 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 * Distribution : dédié à l'interface embarquée
 
 ## TODO
-* visionneuse.py : programme python pour facilement visionner les analyses
+* Beaucoup d'analyses
+* visionneuse.py : programme Python pour facilement visionner les analyses
+* Interface Qt
