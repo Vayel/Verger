@@ -13,3 +13,6 @@
 
 ## Computer vision
 * [Computer vision blog](http://computervisionblog.wordpress.com/)
+
+## Image stitching
+* [Stackoverflow](http://stackoverflow.com/questions/20828512/image-stitching-python)
