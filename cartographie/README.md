@@ -17,7 +17,7 @@ la dose à distribuer.
 
 ## Problèmes :
 L'obstacle majeur est l'élaboration de la carte. Il nous faut, à partir d'images 
-successives du rang, obtenir une vision globale de ce dernier. Comment, avec des  
+successives du rang, obtenir une vision globale de ce dernier. Comment, avec des 
 clichés de parties de rang, construire une carte
 
 Pour illustrer, il faudrait avoir la possibilité de rapetisser le rang puis de le 
@@ -25,8 +25,8 @@ photographier dans toute sa largeur pour aisément générer la portion de carte
 étant assignée.
 
 ## Pistes :
-* Google Street View : assemblage d'images 
-* vidéo
+* Image stitching
+* Vidéo
 
 ## Structure de la partie :
 TODO
