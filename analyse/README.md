@@ -23,8 +23,17 @@ L'analyse des images se fera avec OpenCV ou GIMP.
     * Seuillage ?
 
 ## Problèmes :
-* De jour : arrière-plan
-* Tout le temps : sol, ciel
+De jour, l'arrière-plan s'avère être un problème rédhibitoire et quasiment insurmontable : 
+même à l'oeil nu il est peu aisé de distinguer le rang de ceux de derrière. C'est pourquoi 
+nous sommes passés à des prises nocturnes. Une solution à méditer serait d'éclairer le pommier 
+photographié afin de l'extraire du reste.
+
+De nuit donc, le sol et le ciel constituent des gênes pour l'analyse. Nous devrions nous débarrasser 
+simplement du premier en positionnement l'appareil de sorte que le bas de l'image s'arrête au bas du 
+pommier et que sol soit invisible. Pour le ciel... TODO
+
+Trop de méthodes différentes -> machine learning
+
 
 ## Structure de la partie :
 Chaque sous-partie est consacrée à une variété particulière et est elle-même partagée en 
