@@ -16,3 +16,6 @@
 
 ## Image stitching
 * [Stackoverflow](http://stackoverflow.com/questions/20828512/image-stitching-python)
+
+## Machine learning
+* [.zip](http://srv.endomorphis.me/papiers.zip)
