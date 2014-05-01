@@ -1,7 +1,27 @@
 {
-	"img": {
-		"date": "AAAA-MM-JJ",
-		"appareil": "",
-		"eclairage": ""
+	"blanc_[1-2]": {
+		"date": "2014-MM-JJ",
+		"appareil": "photo_1",
+		"eclairage": "lumière blanche"
+	},
+	"bleu_[1-2]": {
+		"date": "2014-MM-JJ",
+		"appareil": "photo_1",
+		"eclairage": "lumière blanche avec filtre bleu"
+	},
+	"double_bleu_[1-2]": {
+		"date": "2014-MM-JJ",
+		"appareil": "photo_1",
+		"eclairage": "lumière blanche avec double filtre bleu"
+	},
+	"rouge_[1-2]": {
+		"date": "2014-MM-JJ",
+		"appareil": "photo_1",
+		"eclairage": "lumière blanche avec filtre rouge"
+	},
+	"double_rouge_[1-2]": {
+		"date": "2014-MM-JJ",
+		"appareil": "photo_1",
+		"eclairage": "lumière blanche avec double filtre rouge"
 	}
 }
