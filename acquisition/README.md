@@ -1,21 +1,26 @@
 # Acquisition
 
 ## Objectifs :
-Prendre des clichés dont l'analyse donnera des résultats corrects.
+Il nous faut être en mesure de prendre des clichés dont donnera des résultats corrects 
+mais de manière peu contraignante : effectivement, s'il faut passer une minute pour 
+chaque photographie, le temps de prise sera trop important. Concrètement, il est 
+nécessaire de capturer des images de qualité en roulant.
 
 ## Méthodes :
-Les clichés sont pris de face, perpendiculaires au rang concerné.
+Des clichés de face seront pris, perpendiculaires au rang, depuis un véhicule.
 
-Afin de ne négliger aucune piste, des ballons gonflés à l'hélium seront utilisés 
-pour prendre des images aériennes.
+Afin de ne négliger aucune piste, des ballons gonflés à l'hélium seront également 
+utilisés pour prendre des images aériennes.
 
 ## Problèmes :
-* Arrière-plan
-* Ciel
-* Sol
+De jour, l'arrière-plan s'avère être un problème rédhibitoire et quasiment insurmontable : 
+même à l'oeil nu il est peu aisé de distinguer le rang de ceux de derrière. C'est pourquoi 
+nous sommes passés à des prises nocturnes. Une solution à méditer serait d'éclairer le pommier 
+photographié afin de l'extraire du reste.
 
-## Pistes :
-Prises nocturnes
+De nuit donc, le sol et le ciel constituent des gênes pour l'analyse. Nous devrions nous débarrasser 
+simplement du premier en positionnement l'appareil de sorte que le bas de l'image s'arrête au bas du 
+pommier et que sol soit invisible. Pour le ciel... TODO: éclairage ? opérations graphiques ?
 
 ## Structure de la partie :
 Le dossier img/ contient les photographies rangées par variété.
