@@ -19,7 +19,6 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 
 * Acquisition : dédié à la prise des clichés
     * img : contient les images
-        * jour : photographies de jour
         * nuit : photographies de nuit
         
 * Analyse : dédié à l'analyse des images
@@ -29,7 +28,7 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 * Distribution : dédié à l'interface embarquée
 
 ## TODO
-* Complétion des fichiers details.json de acquisition/img/
 * Beaucoup d'analyses
 * visionneuse.py : programme Python pour facilement visionner les analyses
+* Eclairage de nuit pour atténuer le ciel ?
 * Interface Qt
