@@ -15,6 +15,12 @@
 				"desat luminosité",
 				"con 127"
 			]
+		},
+		"fleurs_inv": {
+			"date": "2014-05-02",
+			"operations": [
+				"inv"
+			]
 		}
 	}
 }

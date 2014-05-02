@@ -15,15 +15,20 @@
 				"desat luminosité",
 				"con 30"
 			]
-		}
-	},
-	"fleurs_inv_con_seuil": {
+		},
+		"fleurs_inv_con_seuil": {
 			"date": "2014-04-27",
 			"operations": [
 				"inv",
 				"desat luminosité",
 				"con 30",
 				"seuil 255"
+			]
+		},
+		"fleurs_inv": {
+			"date": "2014-05-02",
+			"operations": [
+				"inv"
 			]
 		}
 	}
