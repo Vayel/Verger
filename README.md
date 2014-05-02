@@ -16,13 +16,17 @@ phases de traitement, nous déterminons la position du tracteur sur la carte afi
 de connaître la quantité de produit à distribuer, que nous distribuons. 
 
 ## Structure du dépôt
-
 * Acquisition : dédié à la prise des clichés
-    * img : contient les images
-        * nuit : photographies de nuit
+    * sol : images prises du sol
+        * img : contient les images
+            * nuit : photographies de nuit
+    * ciel : images aériennes
+        * img : contient les images       
         
 * Analyse : dédié à l'analyse des images
-
+    * sol : analyses des images prises du sol
+    * ciel : analyses des images aériennes
+    
 * Cartographie : dédié à la génération de la carte de densité
 
 * Distribution : dédié à l'interface embarquée
