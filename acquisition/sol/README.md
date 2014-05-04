@@ -17,11 +17,13 @@ simplement du premier en positionnement l'appareil de sorte que le bas de l'imag
 pommier et que sol soit invisible. Pour le ciel, peut-être qu'un éclairage particulier pourrait 
 remédier au problème.
 
-D'autre part, les images prises en roulant apparaissent floues et quasiment inexploitables.
+D'autre part, les images prises en roulant apparaissent floues et quasiment inexploitables. 
+Des gênes sont rencontrées : une branche recouvrant l'objectif, une autre avec des fleurs 
+ressortant du pommier et formant une importante tâche blanche sur l'image...
 
 ## Structure de la partie :
 Le dossier img/ contient les photographies rangées par variété.
 
 À chaque lot d'images est associé un fichier details.json comportant des 
 informations supplémentaires sur la prise des photographies. La clé "appareil" 
-fait référence au fichier appareils.json présent dans cette section.
+fait référence au fichier ../appareils.json.
