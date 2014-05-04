@@ -18,15 +18,14 @@ la dose à distribuer.
 ## Problèmes :
 L'obstacle majeur est l'élaboration de la carte. Il nous faut, à partir d'images 
 successives du rang, obtenir une vision globale de ce dernier. Comment, avec des 
-clichés de parties de rang, construire une carte
+clichés de parties de rang, construire une carte ?
 
 Pour illustrer, il faudrait avoir la possibilité de rapetisser le rang puis de le 
 photographier dans toute sa largeur pour aisément générer la portion de carte lui 
 étant assignée.
 
 ## Pistes :
-* Image stitching
-* Vidéo
+L'*image stitching* semble une piste intéressante.
 
 ## Structure de la partie :
-TODO
+Rien pour l'instant.

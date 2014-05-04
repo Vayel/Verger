@@ -16,23 +16,21 @@ phases de traitement, nous déterminons la position du tracteur sur la carte afi
 de connaître la quantité de produit à distribuer, que nous distribuons. 
 
 ## Structure du dépôt
-* Acquisition : dédié à la prise des clichés
+* Acquisition : dédié à la prise des clichés des pommiers
     * sol : images prises du sol
         * img : contient les images
             * nuit : photographies de nuit
     * ciel : images aériennes
         * img : contient les images       
         
-* Analyse : dédié à l'analyse des images
-    * sol : analyses des images prises du sol
-    * ciel : analyses des images aériennes
+* Analyse : dédié à l'analyse des images pour déterminer la densité de floraison
+    * sol : analyse des images prises du sol
+    * ciel : analyse des images aériennes
     
-* Cartographie : dédié à la génération de la carte de densité
+* Cartographie : dédié à la génération de la carte de densité et à son utilisation
 
-* Distribution : dédié à l'interface embarquée
+* Distribution : dédié à l'interface embarquée employée pour distribuer le produit
 
-## TODO
+## Pour ne pas s'ennuyer
 * Beaucoup d'analyses
-* visionneuse.py : programme Python pour facilement visionner les analyses
 * Eclairage de nuit pour atténuer le ciel ?
-* Interface Qt

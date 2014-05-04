@@ -1,6 +1,7 @@
 # Acquisition
 
 ## Objectifs :
-Il nous faut être en mesure de prendre des clichés dont l'analyse donnera des résultats corrects.
+Il nous faut être en mesure de prendre rapidement et de manière peu contraignante 
+des clichés dont l'analyse donnera des résultats exploitables.
 
-Référez-vous au fichier README.md de chaque sous-partie pour plus de renseignements.
+Se référer au fichier README.md de chaque sous-partie pour plus de renseignements.

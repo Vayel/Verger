@@ -1,7 +1,10 @@
 # Analyse - images depuis le sol
 
 ## Objectifs :
-TODO
+De nuit, seul le ciel s'avère un parasite. Une fois éliminé, calculer la densité 
+de floraison est relativement simple à partir d'un seuillage. La difficulté majeure 
+consiste donc à extraire l'arbre - feuillage + fleurs - de l'image afin de l'analyser 
+sans problème. 
 
 ## Méthodes :
 L'analyse des images se fera avec OpenCV ou GIMP.
@@ -14,8 +17,9 @@ L'analyse des images se fera avec OpenCV ou GIMP.
 * Passage en noir et blanc
     * Augmentation du contraste
 * Inversion des couleurs
-    * Passage en noir et blanc ?
-    * Seuillage ?
+    * Passage en noir et blanc
+    * [Contraste]
+    * Seuillage
 
 ## Problèmes :
 Nous parvenons à des résultats tout à fait corrects mais le souci est que chaque image 
