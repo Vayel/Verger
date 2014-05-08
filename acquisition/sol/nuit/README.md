@@ -10,7 +10,7 @@ nécessaire de capturer des images de qualité en roulant.
 Le sol et le ciel constituent des gênes pour l'analyse. Nous devrions nous débarrasser 
 simplement du premier en positionnement l'appareil de sorte que le bas de l'image s'arrête au bas du 
 pommier et que sol soit invisible. Pour le ciel, peut-être qu'un éclairage particulier pourrait 
-remédier au problème.
+remédier au problème, tout comme un temps d'ouverture plus court.
 
 D'autre part, les images prises en roulant apparaissent floues et quasiment inexploitables. 
 Des gênes sont rencontrées : une branche recouvrant l'objectif, une autre avec des fleurs 
