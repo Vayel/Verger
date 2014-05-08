@@ -5,6 +5,7 @@
 * [Exemple PythonFu](http://coderazzi.net/python/gimp/pythonfu.html)
 * [Exemple PythonFu](http://www.exp-media.com/content/extending-gimp-python-python-fu-plugins-part-2)
 * [Batch](http://www.gimp.org/tutorials/Basic_Batch/)
+* [Bases](http://myvirtualbrain.blogspot.fr/2012/06/gimp-python-fu-very-basics.html)
 
 ## OpenCV
 * [Blog](http://www.aishack.in/tutorials/computer-vision/)

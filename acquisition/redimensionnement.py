@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# Python 2
+# The GIMP required
 
 import os
 import sys
@@ -56,6 +58,8 @@ def main(paths):
 			print 'Error with {}'.format(path) 
 			return
 		
+		filename, ext = parsePath(path)
+		
 		# Create image
 		im = createIm(path)
 		
@@ -64,11 +68,7 @@ def main(paths):
 		gimp.pdb.gimp_image_scale(im, width, height)
 		
 		# Save it
-		# TODO: 
-		"""
-		gimp.pdb.file_jpeg_save(im, drawable, filename, raw_filename, quality, smoothing, optimize, progressive, comment, subsmp, baseline, restart, dct)
-		gimp.pdb.file_png_save(im, drawable, filename, raw_filename, interlace, compression, bkgd, gama, offs, phys, time)
-		"""
+		gimp.pdb.file_jpeg_save(im, gimp.pdb.gimp_image_active_drawable(im), filename, filename, 0.8)
 			
 	
 if __name__ == '__main__':

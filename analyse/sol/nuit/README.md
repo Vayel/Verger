@@ -1,10 +1,8 @@
-# Analyse - images depuis le sol
+# Analyse - images depuis le sol de nuit
 
 ## Objectifs :
-De nuit, seul le ciel s'avère un parasite. Une fois éliminé, calculer la densité 
-de floraison est relativement simple à partir d'un seuillage. La difficulté majeure 
-consiste donc à extraire l'arbre - feuillage + fleurs - de l'image afin de l'analyser 
-sans problème. 
+De nuit, seul le ciel s'avère un parasite. Il nous faut donc l'éliminer afin de 
+ne conserver que le feuillage.
 
 ## Méthodes :
 L'analyse des images se fera avec OpenCV ou GIMP.
@@ -33,4 +31,4 @@ Chaque sous-partie est consacrée à une variété particulière et est elle-mê
 plusieurs dossiers dédiés chacun à une image source.
 
 Chaque sous-sous-partie contient un fichier .json apportant plus de détails sur le déroulement des 
-analyses : date, source, opérations effectuées... Le fichier ../gimp.json décrit ces dernières avec précision.
+analyses : date, source, opérations effectuées... Le fichier ../../gimp.json décrit ces dernières avec précision.
