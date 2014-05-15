@@ -8,6 +8,13 @@
 				"seuil 15"
 			]
 		},
+		"feuillage_canr_seuil": {
+			"date": "2014-05-15",
+			"operations": [
+				"can r",
+				"seuil 13"
+			]
+		},
 		"fleurs_con": {
 			"date": "2014-04-26",
 			"operations": [
