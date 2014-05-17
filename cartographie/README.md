@@ -25,7 +25,9 @@ photographier dans toute sa largeur pour aisément générer la portion de carte
 étant assignée.
 
 ## Pistes :
-L'*image stitching* semble une piste intéressante.
+L'*image stitching* semble une piste intéressante. Afin de simplifier le *stitching*, 
+ce dernier pourrait être fait sur les images binaires - après extraction du feuillage - 
+et non sur les sources aux motifs complexes.
 
 ## Structure de la partie :
 Rien pour l'instant.
