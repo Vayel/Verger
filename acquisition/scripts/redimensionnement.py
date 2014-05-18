@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Python 2
-# The GIMP required
+# GIMP required
 
 import os
 import sys
@@ -75,4 +75,4 @@ if __name__ == '__main__':
 	if len(sys.argv) > 1:
 		main(sys.argv[1:])
 	else:
-		print 'No image to be resized.'
+		print 'No image to be processed.'
