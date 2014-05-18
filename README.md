@@ -19,12 +19,15 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 * Acquisition : dédié à la prise des clichés des pommiers
     * sol : images prises du sol
         * img : contient les images
+            * jour : photographies de jour
             * nuit : photographies de nuit
     * ciel : images aériennes
         * img : contient les images       
         
 * Analyse : dédié à l'analyse des images pour déterminer la densité de floraison
     * sol : analyse des images prises du sol
+        * jour : photographies de jour
+        * nuit : photographies de nuit
     * ciel : analyse des images aériennes
     
 * Cartographie : dédié à la génération de la carte de densité et à son utilisation
@@ -32,5 +35,5 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 * Distribution : dédié à l'interface embarquée employée pour distribuer le produit
 
 ## Pour ne pas s'ennuyer
-* Beaucoup d'analyses
-* Eclairage de nuit pour atténuer le ciel ?
+* Analyser les dernières images
+* Ecrire des scripts GIMP ou OpenCV pour automatiser le travail
