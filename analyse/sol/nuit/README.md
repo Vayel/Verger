@@ -36,5 +36,5 @@ La méthode du *machine learning* pourrait être envisagée.
 Chaque sous-partie est consacrée à un principe d'analyse et dédie une sous-partie à chaque variété, 
 qui est elle-même partagée en plusieurs dossiers pour chaque image source.
 
-Chaque sous-sous-partie contient un fichier details.json apportant plus de détails sur les analyses : 
-date, source et opérations effectuées. Le fichier ../../gimp.json décrit ces dernières avec précision.
+Chaque sous-partie contient un fichier details.json apportant plus de détails sur les opérations 
+effectuées lors des analyses. Le fichier ../../gimp.json décrit ces dernières avec précision.
