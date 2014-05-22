@@ -1,0 +1,12 @@
+{
+	"source": "sol/nuit/img/judeline/blanc_1.jpg",
+	"images": {
+		"canr_seuil": {
+			"date": "2014-05-15",
+			"operations": [
+				"can r",
+				"seuil 17"
+			]
+		}
+	}
+}

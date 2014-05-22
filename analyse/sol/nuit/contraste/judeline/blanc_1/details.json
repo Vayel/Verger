@@ -1,0 +1,19 @@
+{
+	"source": "sol/nuit/img/judeline/blanc_1.jpg",
+	"images": {
+		"feuillage_con": {
+			"date": "2014-04-26",
+			"operations": [
+				"desat clarté",
+				"seuil 12"
+			]
+		},
+		"fleurs_con": {
+			"date": "2014-04-26",
+			"operations": [
+				"desat clarté",
+				"con 127"
+			]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"source": "sol/nuit/img/judeline/blanc_2.jpg",
+	"images": {
+		"fleurs_inv": {
+			"date": "2014-04-26",
+			"operations": [
+				"inv"
+			]
+		},
+		"fleurs_inv_con": {
+			"date": "2014-04-27",
+			"operations": [
+				"inv",
+				"desat clarté",
+				"con 127"
+			]
+		}
+	}
+}

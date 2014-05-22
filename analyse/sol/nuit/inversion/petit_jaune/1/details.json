@@ -1,0 +1,20 @@
+{
+	"source": "sol/nuit/img/petit_jaune/1.jpg",
+	"images": {
+		"fleurs_inv_con_seuil": {
+			"date": "2014-04-27",
+			"operations": [
+				"inv",
+				"desat luminosité",
+				"con 30",
+				"seuil 255"
+			]
+		},
+		"fleurs_inv": {
+			"date": "2014-05-02",
+			"operations": [
+				"inv"
+			]
+		}
+	}
+}
