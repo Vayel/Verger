@@ -6,7 +6,7 @@ import os
 import sys
 
 # Path from gimpfu.gimp.__file__ in GIMP's Python-Fu console
-sys.path.append("/usr/lib/gimp/2.0/python")
+sys.path.append("/usr/lib/gimp/2.0/python/")
 
 import gimpfu
 
@@ -64,16 +64,14 @@ def main(paths):
 		savePath = 'resultats/' + filename
 		
 		# Create image
-		# im = createIm(path)
+		im = createIm(path)
 		
 		# Resize it
-		# width, height = getImDims(im, SIZE)
-		# gimpfu.gimp.pdb.gimp_image_scale(im, width, height)
-		
-		print savePath
+		width, height = getImDims(im, SIZE)
+		gimpfu.gimp.pdb.gimp_image_scale(im, width, height)
 		
 		# Save it
-		# gimpfu.gimp.pdb.file_jpeg_save(im, gimpfu.gimp.pdb.gimp_image_active_drawable(im), filename, filename, 0.8)		
+		gimpfu.gimp.pdb.file_jpeg_save(im, gimpfu.gimp.pdb.gimp_image_active_drawable(im), savePath, savePath, 0.8)		
 	
 if __name__ == '__main__':
 	if len(sys.argv) > 1:
