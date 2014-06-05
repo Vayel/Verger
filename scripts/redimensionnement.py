@@ -9,8 +9,15 @@ import sys
 sys.path.append("/usr/lib/gimp/2.0/python/")
 
 import gimpfu
+"""
+Ouvrir GIMP
+Filtres > Python-Fu > Console
+>>> import sys
+>>> sys.path.append(chemin-du-script)
+>>> import script
+>>> script.work(...)
+"""
 
-SIZE = 800
 allowedExts = ['jpg', 'jpeg', 'png']
 
 def parsePath(path):
@@ -50,7 +57,7 @@ def getImDims(im, size):
 		return (float(width)/factor), (float(height)/factor)
 	
 
-def main(paths):
+def work(paths, saveFolder='./', size=800):
 	for path in paths:
 		# Check files
 		if not(checkPath(path)):
@@ -61,20 +68,14 @@ def main(paths):
 		filename = filename.split('/')
 		filename = filename[len(filename) - 1]
 		
-		savePath = 'resultats/' + filename
+		savePath = saveFolder + filename + '.' + ext
 		
 		# Create image
 		im = createIm(path)
 		
 		# Resize it
-		width, height = getImDims(im, SIZE)
+		width, height = getImDims(im, size)
 		gimpfu.gimp.pdb.gimp_image_scale(im, width, height)
 		
 		# Save it
-		gimpfu.gimp.pdb.file_jpeg_save(im, gimpfu.gimp.pdb.gimp_image_active_drawable(im), savePath, savePath, 0.8)		
-	
-if __name__ == '__main__':
-	if len(sys.argv) > 1:
-		main(sys.argv[1:])
-	else:
-		print 'No image to be processed.'
+		gimpfu.gimp.pdb.file_jpeg_save(im, gimpfu.gimp.pdb.gimp_image_active_drawable(im), savePath, savePath, 0.9, 0, 0, 0, "", 0, 0, 0, 0)
