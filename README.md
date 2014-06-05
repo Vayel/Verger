@@ -34,6 +34,6 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 
 * Distribution : dédié à l'interface embarquée employée pour distribuer le produit
 
-## Pour ne pas s'ennuyer
-* Analyser les dernières images
-* Ecrire des scripts GIMP ou OpenCV pour automatiser le travail
+## TODO
+* Analyse du canal rouge : déterminer automatiquement la valeur du seuil
+* Mettre en place une batterie de tests

@@ -5,12 +5,13 @@ De nuit, seul le ciel s'avère un parasite. Il nous faut donc l'éliminer afin d
 ne conserver que le feuillage. Ensuite, un simple seuillage devrait convenir.
 
 ## Méthodes :
-* Canal rouge (fl + fe) :
+* Canal rouge (fe) :
     * La sélection du canal rouge pour éliminer en partie le ciel puis un seuillage pour 
 peaufiner semble s'avérer efficace. Le canal rouge donne globalement un histogramme avec 
 un pic vers zéro : le seuillage paraît optimal en prenant la valeur au milieu de la pente 
 du pic.
     * À priori, cette méthode ne présente pas de problème particulier.
+    * Il faut à présent déterminer de manière automatique le seuil à appliquer.
 
 * Inversion de couleurs (fl) : 
    * L'inversion de couleurs fait remarquablement ressortir les fleurs. 
@@ -29,8 +30,6 @@ inversion de couleur pour certaines, contraste pour d'autres...
 
 En outre, l'extraction des fleurs s'avère relativement simple, contrairement à la détermination 
 du feuillage, pour laquelle le ciel représente une gêne considérable.
-
-La méthode du *machine learning* pourrait être envisagée.
 
 ## Structure de la partie :
 Chaque sous-partie est consacrée à un principe d'analyse et dédie une sous-partie à chaque variété, 
