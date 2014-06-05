@@ -1,5 +1,5 @@
 {
-	"source": "sol/nuit/img/judor/25.jpg",
+	"source": "sol/nuit/img/judor/31.jpg",
 	"images": {
 		"canr": {
 			"date": "2014-05-22",
@@ -11,7 +11,7 @@
 			"date": "2014-06-05",
 			"operations": [
 				"can r",
-				"seuil 21"
+				"seuil 15"
 			]
 		}
 	}
