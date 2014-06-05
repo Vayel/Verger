@@ -6,6 +6,13 @@
 			"operations": [
 				"canr"
 			]
+		},
+		"canr_seuil": {
+			"date": "2014-06-05",
+			"operations": [
+				"can r",
+				"seuil 22"
+			]
 		}
 	}
 }
