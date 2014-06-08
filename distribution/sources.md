@@ -6,3 +6,4 @@
 * [Exemples](http://www.raspberrypi.org/resources/learn/)
 * [Tutoriels](http://www.raspberrypi.org/tag/tutorials/)
 * [Tutoriels](https://learn.adafruit.com/category/raspberry-pi)
+* [Achat](http://www.kubii.fr/8-acheter-rpi)
