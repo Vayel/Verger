@@ -14,6 +14,7 @@ ne conserver que le feuillage. Ensuite, un simple seuillage devrait convenir.
     * Il faut à présent déterminer de manière automatique le seuil à appliquer : 
     une faible augmentation du contraste semble rendre l'histogramme plus enclin 
     à être analysé.
+    * [Contraste](http://pippin.gimp.org/image_processing/chap_point.html)
 
 * Inversion de couleurs (fl) : 
    * L'inversion de couleurs fait remarquablement ressortir les fleurs. 
@@ -25,6 +26,12 @@ ne conserver que le feuillage. Ensuite, un simple seuillage devrait convenir.
    les fleurs : les zones obscures deviennent noires alors que les claires blanches. 
     * Seulement, les valeurs efficaces du contraste ne semblent pas suivre de 
     logique particulière.
+	
+* Trichromie canal jaune (fe) :
+	* Décomposition trichromie
+	* Canal jaune
+	* Contraste
+	* Seuillage
 
 ## Problèmes :
 Nous parvenons à des résultats tout à fait corrects mais le souci est que chaque image 

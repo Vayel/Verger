@@ -21,4 +21,8 @@ afin de généraliser et d'automatiser. Enfin, une fois les scripts écrits, vé
 bon fonctionnement de la méthode en analysant derechef les images, mais via 
 notre programme cette fois.
 
+# Problèmes :
+Les images variant fortement, l'analyse s'avère complexe et il va probablement falloir 
+imposer des contraintes à l'acquisition.
+
 Se référer au fichier README.md de chaque sous-partie pour plus de renseignements.
