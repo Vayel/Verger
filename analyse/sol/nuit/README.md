@@ -15,6 +15,7 @@ ne conserver que le feuillage. Ensuite, un simple seuillage devrait convenir.
     une faible augmentation du contraste semble rendre l'histogramme plus enclin 
     à être analysé.
     * [Contraste](http://pippin.gimp.org/image_processing/chap_point.html)
+    * Régler le seuil à partir d'une image du ciel vierge.
 
 * Inversion de couleurs (fl) : 
    * L'inversion de couleurs fait remarquablement ressortir les fleurs. 
