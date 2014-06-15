@@ -1,12 +1,23 @@
 {
-	"source": "sol/nuit/img/petit_jaune/1.jpg",
-	"images": {
-		"canr_seuil": {
-			"date": "2014-05-15",
-			"operations": [
-				"can r",
-				"seuil 15"
-			]
-		}
-	}
+  "images": {
+    "canr_seuil_auto": {
+      "date": "2014-06-15", 
+      "operations": [
+        "can r", 
+        "seuil 13"
+      ]
+    }, 
+    "canr_seuil": {
+      "date": "2014-05-15", 
+      "operations": [
+        "can r", 
+        "seuil 15"
+      ]
+    }, 
+    "ciel": {
+      "date": "2014-06-15", 
+      "luminosite_max": 13
+    }
+  }, 
+  "source": "sol/nuit/img/petit_jaune/1.jpg"
 }
