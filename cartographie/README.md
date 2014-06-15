@@ -29,5 +29,12 @@ L'*image stitching* semble une piste intéressante. Afin de simplifier le *stitc
 ce dernier pourrait être fait sur les images binaires - après extraction du feuillage - 
 et non sur les sources aux motifs complexes.
 
+Une autre solution consisterait à effectuer le protocole suivant :
+* Tracteur positionné entre les pommiers A et B
+* Sélection de la photographie associée à cet intervalle
+* Utilisation du tronc pour origine et de la vitesse pour connaître la distance 
+parcourue
+* Position exacte du tracteur connue
+
 ## Structure de la partie :
 Rien pour l'instant.
