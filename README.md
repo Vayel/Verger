@@ -35,6 +35,5 @@ de connaître la quantité de produit à distribuer, que nous distribuons.
 * Distribution : dédié à l'interface embarquée employée pour distribuer le produit
 
 ## TODO
-* Analyse du canal rouge : augmentation du contraste
-* Analyse du canal rouge : déterminer automatiquement la valeur du seuil
-* Mettre en place une batterie de tests
+* Cartographie : script Python pour découper une image en deux et la recoller 
+avec cartographie/image_stitching/bin/stitching
